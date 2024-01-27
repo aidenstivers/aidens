@@ -17,10 +17,6 @@ Now I'm writing in **bold**
 4. A
 5. List
 
-'''
-  "OK I think I get it"
-'''
-
 - Here's
 - A
 - Different
@@ -32,11 +28,8 @@ Now I'm writing in **bold**
 
 Here is some in-line 'code'.
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+'''
+here is a codeblock
+hopefully it works
+'''
 
