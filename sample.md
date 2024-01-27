@@ -26,10 +26,19 @@ Now I'm writing in **bold**
 
 [UK Library Science Homepage](https://ci.uky.edu/sis/academics/library-science)
 
-Here is some in-line 'code'.
+Here is some in-line `code`
 
-'''
-here is a codeblock
-hopefully it works
-'''
+```
+Also here is a code block.
+I kept using apostrophes
+instead of backticks so it didn't work before
+but now hopefully it works
+```
 
+This is me ==highlighting.==
+
+Also you can add emojis 🥐 so I'll obviously be doing that 🎉🤠🎊
+
+![A Picture](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/294985752_461663045971187_6608397572132790846_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_ohc=459p4crCWIgAX8StorV&_nc_ht=scontent-ord5-1.xx&oh=00_AfD_7q33r6F-1PSdNd09neqilpq9B3KRV3uWsR_pyUlq0A&oe=65B9C8FA)
+
+---
