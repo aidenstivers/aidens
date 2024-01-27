@@ -8,4 +8,4 @@ GitHub
 Markdown
 - I'm learning basic Markdown using the Markdown Cheat Sheet
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-
+- It reminds me a lot of HTML which I kind of learned the basics of in my Tumblr era
