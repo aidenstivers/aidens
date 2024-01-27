@@ -29,12 +29,11 @@ Now I'm writing in **bold**
 
 Here is some in-line 'code'.
 
-'''
+```
 {
-  "HERE IS SOME CODEBLOCK TEXT"
-  "IDK IF IT WILL WORK"
-  }
-'''
-
-
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
