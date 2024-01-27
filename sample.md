@@ -27,5 +27,14 @@ Now I'm writing in **bold**
 
 [UK Library Science Homepage](https://ci.uky.edu/sis/academics/library-science)
 
+Here is some in-line 'code'.
+
+'''
+{
+  "HERE IS SOME CODEBLOCK TEXT"
+  "IDK IF IT WILL WORK"
+  }
+'''
+
 
 
