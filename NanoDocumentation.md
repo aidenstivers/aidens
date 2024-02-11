@@ -1,4 +1,4 @@
-# nano documentation
+# Nano Documentation
 
 ## Notes on Nano
 - most basic way to store human-readable textual info
