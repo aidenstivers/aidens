@@ -1,8 +1,18 @@
 # nano documentation
 
+## Notes on Nano
+- most basic way to store human-readable textual info
+- we'll use plain text to modify the programs we'll be installing later
+- nano is modeless
+- nano messages appear at the bottom of the screen with its command menu
 
 
-## Notes on using nano
+- I created and saved several files to play around with commands
+- I copied the commands from `^G` which I found helpful
+- I viewed additional tutorials on nano on YT
+- Overall, I was intimidated to use a text editor but found it was easier than I thought it would be
+
+## Nano Commands
 
 - new named nano file or to open an existing file: `nano filename`
 - or new unnamed nano file: `nano`
@@ -31,7 +41,3 @@
 - ^C reports the current *Cursor* position
 - ^R inserts an external file at the cursor position
 - ^X *Exits* Pico
-
-
-- I also viewed other tutorials on `Nano` such as the *Akamai Developer* video on YT
-- I'm very new to this so it was intimidating but much simpler than I thought it would be
